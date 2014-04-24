@@ -1,0 +1,1 @@
+尝试重新用file(fileName).exists()的方法进行网页判重

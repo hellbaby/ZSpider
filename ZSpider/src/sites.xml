@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sites>
+	<site name="Cnki" threadNum="15">	
+		<seed url="http://www.cnki.com.cn/index.htm"/>
+		<regex pattern="http://www\.cnki\.com\.cn/Navi/\w\.htm"/>
+		<regex pattern="http://www\.cnki\.com\.cn/Article/CJFDTOTAL-.+\.htm[l]?$"/>
+		<regex pattern="http://cdmd\.cnki\.com\.cn/Article/CDMD-.+\.htm[l]?$"/>
+		<regex pattern="http://cpfd\.cnki\.com\.cn/Article/CPFDTOTAL-.+\.htm[l]?$"/>
+		
+	</site>
+<!--  	<site name="Springer" sitemap="true">-->
+	<!-- 	<seed url="http://link.springer.com/sitemap-index.xml"/>  -->
+<!--		<seed url="http://www.cnki.com.cn/index.htm"/>
+	</site>  -->
+	
+</sites>
